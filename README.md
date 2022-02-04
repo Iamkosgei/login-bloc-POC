@@ -26,6 +26,6 @@ Bloc architecture is a Model-View-ViewModel architecture that removes the tight 
   * [Bloc](https://bloclibrary.dev/#/) - A predictable state management library for Dart.
   * [Dio](https://pub.dev/packages/dio) - A powerful Http client for Dart, which supports Interceptors, Global configuration, FormData, Request Cancellation, File downloading, Timeout etc.
   * [Get it](https://pub.dev/packages/get_it) - This is a simple Service Locator for Dart and Flutter projects.
- * [Flutter svg](https://pub.dev/packages/flutter_svg)- An SVG rendering and widget library for Flutter, which allows painting and displaying Scalable Vector Graphics 1.1 files.
+  * [Flutter svg](https://pub.dev/packages/flutter_svg)- An SVG rendering and widget library for Flutter, which allows painting and displaying Scalable Vector Graphics 1.1 files.
 
  
