@@ -1,4 +1,5 @@
 
+
 # NN bloc login  
 A POC for a login page using bloc.
   
@@ -16,6 +17,24 @@ Bloc architecture is a Model-View-ViewModel architecture that removes the tight 
   <img src="https://user-images.githubusercontent.com/14147462/152492950-e793b963-87d7-420b-afc6-bfc4ed98e663.png" width="200" /> 
 </p>    
   
+  ## Mock API
+  Fake store API for the mock backend - https://fakestoreapi.com/docs
+  
+  ##### Request
+  ```
+  POST - https://fakestoreapi.com/auth/login
+{
+	"username": "mor_2314",
+	"password": "83r5^_"
+}
+```
+   
+ ##### Response
+  ```
+{
+            token: "eyJhbGciOiJIUzI1NiIsInR"
+ }
+```
  
   
 ## Tech-stack  
@@ -27,5 +46,3 @@ Bloc architecture is a Model-View-ViewModel architecture that removes the tight 
   * [Dio](https://pub.dev/packages/dio) - A powerful Http client for Dart, which supports Interceptors, Global configuration, FormData, Request Cancellation, File downloading, Timeout etc.
   * [Get it](https://pub.dev/packages/get_it) - This is a simple Service Locator for Dart and Flutter projects.
   * [Flutter svg](https://pub.dev/packages/flutter_svg)- An SVG rendering and widget library for Flutter, which allows painting and displaying Scalable Vector Graphics 1.1 files.
-
- 
