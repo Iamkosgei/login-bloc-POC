@@ -10,10 +10,10 @@ Bloc architecture is a Model-View-ViewModel architecture that removes the tight 
   
 ## SCREENSHOTS <p float="left">    
 <p>
+   <img src="https://user-images.githubusercontent.com/14147462/152492958-7f2b1066-affe-441a-b90a-9a5892597b8d.png" width="200" /> 
   <img src="https://user-images.githubusercontent.com/14147462/152492940-689cc6e7-3ffe-4a19-96cd-b5ab0dfa531d.png" width="200" />    
   <img src="https://user-images.githubusercontent.com/14147462/152492944-65b33966-9fc2-4cd3-b19e-badb96b89611.png" width="200" />    
   <img src="https://user-images.githubusercontent.com/14147462/152492950-e793b963-87d7-420b-afc6-bfc4ed98e663.png" width="200" /> 
-  <img src="https://user-images.githubusercontent.com/14147462/152492958-7f2b1066-affe-441a-b90a-9a5892597b8d.png" width="200" /> 
 </p>    
   
  
